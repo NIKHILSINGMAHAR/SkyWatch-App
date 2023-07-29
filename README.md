@@ -1,6 +1,7 @@
 # WeatherApp
 
 1.Features:
+
     1.Get current weather information (temperature, humidity, wind speed, etc.).
     2.View a 5-day weather forecast for the selected location.
     3.Search for weather data of any location using a city name or zip code.
@@ -8,6 +9,7 @@
     
 
 2.Technologies Used:
+
     1.HTML, CSS, JavaScript: Front-end development.
     2.Bootstrap: For responsive design and layout.
     
